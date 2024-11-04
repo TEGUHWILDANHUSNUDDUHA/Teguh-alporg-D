@@ -1,0 +1,5 @@
+print("Nama saya teguh")
+print("NIM saya adalah(24241129)")
+print("saya berasal dari(lobar)")
+print("Nomor keberuntungan saya(24+29)")
+print("53")
